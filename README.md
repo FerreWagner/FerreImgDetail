@@ -1,4 +1,4 @@
-# Picture processing based on GD Library. #
+# Picture processing based on GD Library.  #
 
 Use:
 
