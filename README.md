@@ -2,7 +2,7 @@
 
 Use:
 
-composer require ferrewagner/ferreimgdetail
+ composer require ferrewagner/ferreimgdetail
 
 
 Written and maintained by Ferre.
