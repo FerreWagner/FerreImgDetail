@@ -1,6 +1,6 @@
 # Picture processing based on GD Library.  #
 
-Use:
+Use It:
 
  composer require ferrewagner/ferreimgdetail
 
