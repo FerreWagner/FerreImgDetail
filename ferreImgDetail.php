@@ -1,4 +1,6 @@
 <?php
+namespace ferrewagner\ferreimgdetail;
+
 class ferreImgDetail
 {
     public $suffix = array('JPG', 'JPEG', 'BMP', 'PCX', 'TIFF', 'GIF', 'JPEG', 'TGA', 'EXIF', 'FPX', 'SVG', 'PSD', 'CDR', 'PCD', 'DXF', 'UFO', 'EPS', 'AI', 'PNG', 'HDRI', 'RAW', 'WMF', 'LIC', 'EMF');
